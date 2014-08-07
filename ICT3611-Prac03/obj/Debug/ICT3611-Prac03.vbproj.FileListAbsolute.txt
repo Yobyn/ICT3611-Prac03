@@ -1,1 +1,10 @@
 C:\Users\yroetz\Documents\GitHub\ICT3611-Prac03\ICT3611-Prac03\bin\Debug\ICT3611-Prac03.exe.config
+C:\Users\yroetz\Documents\GitHub\ICT3611-Prac03\ICT3611-Prac03\bin\Debug\ICT3611-Prac03.exe
+C:\Users\yroetz\Documents\GitHub\ICT3611-Prac03\ICT3611-Prac03\bin\Debug\ICT3611-Prac03.pdb
+C:\Users\yroetz\Documents\GitHub\ICT3611-Prac03\ICT3611-Prac03\bin\Debug\ICT3611-Prac03.xml
+C:\Users\yroetz\Documents\GitHub\ICT3611-Prac03\ICT3611-Prac03\obj\Debug\ICT3611_Prac03.Prac03.resources
+C:\Users\yroetz\Documents\GitHub\ICT3611-Prac03\ICT3611-Prac03\obj\Debug\ICT3611_Prac03.Resources.resources
+C:\Users\yroetz\Documents\GitHub\ICT3611-Prac03\ICT3611-Prac03\obj\Debug\ICT3611-Prac03.vbproj.GenerateResource.Cache
+C:\Users\yroetz\Documents\GitHub\ICT3611-Prac03\ICT3611-Prac03\obj\Debug\ICT3611-Prac03.exe
+C:\Users\yroetz\Documents\GitHub\ICT3611-Prac03\ICT3611-Prac03\obj\Debug\ICT3611-Prac03.xml
+C:\Users\yroetz\Documents\GitHub\ICT3611-Prac03\ICT3611-Prac03\obj\Debug\ICT3611-Prac03.pdb
